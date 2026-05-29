@@ -3,3 +3,8 @@ p {
     background-color: #FFCCCB;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#blue {
+    color: #0000FF;
+    font-size: 32px;
+}
