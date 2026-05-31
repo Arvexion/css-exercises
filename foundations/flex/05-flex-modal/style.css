@@ -44,6 +44,11 @@ body {
   align-items: center;
   justify-content: center;
 }
+.icon-area {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
 
 .close-button {
   background: #eee;
