@@ -64,6 +64,13 @@ body {
   border: 1px solid #eee;
   padding: 0;
 }
+.close-button-header-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
 
 button {
   cursor: pointer;
