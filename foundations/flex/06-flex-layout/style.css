@@ -49,3 +49,14 @@ ul {
   gap: 15px;
   flex: 1;
 }
+
+.footer,
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+.footer {
+  background-color: #eeeeee;
+}
