@@ -26,6 +26,12 @@ body {
   gap: 10px;
 }
 
+.header {
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
