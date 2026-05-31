@@ -20,6 +20,14 @@ img {
   gap: 52px;
   align-items: center;
 }
+.plant {
+  display: flex;
+  width: 200px;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column wrap;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
